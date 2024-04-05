@@ -1,6 +1,5 @@
 Code line 1
 Code line 2
-No
+didn't agree to any of this code
 End of script
-
 I don't like it
